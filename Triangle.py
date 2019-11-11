@@ -1,9 +1,3 @@
-# Exercise:
-# 1) Download the data from user: a, b, c - side of a triangle
-# 2) Check if it's possible to draw a triangle and is it rectangular triangle.
-# 3) If it is possible count its area and circumference.
-#    If it's not print message.
-
 import math  # attach math library
 
 user_decision = 'y'
